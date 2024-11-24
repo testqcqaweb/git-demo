@@ -3,12 +3,11 @@ wall of shields
 standing strong
 on this their chosen battle field
 
-<<<<<<< HEAD
-
 бла бла бла 
 бла бла бла 
 бла бла 
 бла бла
-=======
+
 march on my last airbender
->>>>>>> feature
+
+for tag only
